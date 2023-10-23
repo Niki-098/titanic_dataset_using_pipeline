@@ -6,4 +6,4 @@
 * All the files works accordingly
 
 * Pipeline chains together the multiple steps so that the output of each step is used as the input of the next step.
-* Pipelines makes it easy to apply the same preprocessing to train and test. 
+  Pipelines makes it easy to apply the same preprocessing to train and test. 
